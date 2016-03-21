@@ -1,4 +1,4 @@
-This is the repository which contains the Dockerfiles and supporting scripts for:
+aThis is the repository which contains the Dockerfiles and supporting scripts for:
 
 https://registry.hub.docker.com/u/gocd/gocd-dev/
 
